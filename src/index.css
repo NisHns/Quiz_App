@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-color: #ebbd81;
+    background-image: linear-gradient(283deg, #f7cb6d 0%, #ffae00 100%);
+
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
