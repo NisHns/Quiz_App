@@ -12,7 +12,7 @@ A simple quiz application built with React that allows users to answer multiple-
 
 ## Demo
 
-Deployed Link:- https://quizzes-app-ecru.vercel.app/
+Deployed Link:- [https://quiz-app-beige-sigma.vercel.app/]
 
 ## Installation
 
